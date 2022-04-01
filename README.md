@@ -14,7 +14,7 @@
   <tr>
     <th>1</th>
     <th><a href="https://leetcode.com/problems/two-sum/">Two Sum</a></th>
-    <th><a href="https://github.com/dubeyshubham786/leetcode/blob/main/Array/Two%20Sum/two%20sum.py"></a>Python</th>
+    <th><a href="https://github.com/dubeyshubham786/leetcode/blob/main/Array/Two%20Sum/two%20sum.py">Python</a></th>
     <th>Easy</th>
   </tr>
   
